@@ -14,6 +14,3 @@ Open http://localhost:8001/transactions in the browser to verify that your backe
 
 The app also uses Semantic UI for styling which is installed using `npm install semantic-ui-css`
 
-## Deployment
-
-The project is currently deployed at: http://rennynjuguna.github.io/phase-2-wk-1-code-challenge
