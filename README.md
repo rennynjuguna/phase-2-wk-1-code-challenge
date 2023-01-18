@@ -16,4 +16,4 @@ The app also uses Semantic UI for styling which is installed using `npm install 
 
 ## Deployment
 
-The project is currently deployed at: 
+The project is currently deployed at: http://rennynjuguna.github.io/phase-2-wk-1-code-challenge
