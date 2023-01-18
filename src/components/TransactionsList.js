@@ -1,11 +1,13 @@
 import React from "react";
 import Transaction from "./Transaction";
+
+
 function TransactionsList({transactions}) {
   const list = transactions.map((item)=>{
     return <Transaction key={item.id} date={item.date} description={item.description} category={item.category} amount={item.amount} />;
   })
   return (
-    <table className="ui celled striped padded table">
+    <table className="ui celled table">
       <tbody>
         <tr>
           <th>
